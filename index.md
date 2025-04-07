@@ -21,7 +21,7 @@ Our goal is to build a user-friendly and dynamic platform where:
 
 ---
 
-## 🛠 What Club Hub Will Provide
+## What Club Hub Will Provide
 
 When complete, Club Hub will include:
 - **Club Directory** with profiles and contact info
@@ -31,3 +31,12 @@ When complete, Club Hub will include:
 - **Admin Tools** for club leaders to edit info and post updates
 
 ---
+
+## Mockup #1
+![image](https://github.com/user-attachments/assets/2185171f-7f1f-4796-801e-57157701cd08)
+
+## Mockup #2
+![image](https://github.com/user-attachments/assets/2f50b560-ddfc-4da3-ae35-c9e31380392a)
+![image](https://github.com/user-attachments/assets/f616ef69-1ee8-40ca-ad80-465d4f6c677e)
+
+
