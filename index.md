@@ -40,4 +40,4 @@ When complete, Club Hub will include:
 ![image](https://github.com/user-attachments/assets/f616ef69-1ee8-40ca-ad80-465d4f6c677e)
 
 ---
-[Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?tab=t.0)
+[Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?usp=sharing)
