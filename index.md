@@ -34,16 +34,17 @@ When complete, Club Hub will include:
 - **Student Dashboards** for managing saved/joined clubs
 - **Admin Tools** for club leaders to edit info and post updates
 
-## Our Progress
+## Progression
 - **Milestone 1:** <a href="https://github.com/orgs/manoaconnecttb/projects/1"> M1</a>
-** Landing page Mockup
+<br>
+**Landing page Mockup**
 <img src="pics/landing_page.png">
-** Sign Up Mockup
+**Sign Up Mockup**
 <img src="pics/sign_up.png">
-** Sign In Page Mockup
+**Sign In Page Mockup**
 <img src="pics/sign_in.png">
-** Feedback Page Mockup
-<img src="pics/">
+**Feedback Page Mockup**
+<img src="pics/feedback.png">
 - **Milestone 2:** <a href="https://github.com/orgs/manoaconnecttb/projects/4/views/1"> M2</a>
 
 ---
