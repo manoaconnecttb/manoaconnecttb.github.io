@@ -3,13 +3,17 @@ layout: default
 title: Club Hub - ManoaConnectTB
 ---
 
-# Welcome to Club Hub
+# Welcome to Manoa Connect
 
-**Club Hub** is a centralized platform designed to connect students at the University of Hawai‘i at Mānoa with the many amazing clubs, student organizations, and communities on campus.
+**Manoa Connect** is a centralized platform designed to connect students at the University of Hawai‘i at Mānoa with the many amazing clubs, student organizations, and communities on campus.
 
 We believe that every student should be able to find a place where they belong—and Club Hub is here to help make that happen.
 
 ---
+
+## Deployment
+
+See website: <a href="">Manoa Connect</a>
 
 ## Project Goals
 
@@ -29,6 +33,10 @@ When complete, Club Hub will include:
 - **Club News Feed** with announcements and events
 - **Student Dashboards** for managing saved/joined clubs
 - **Admin Tools** for club leaders to edit info and post updates
+
+## Our Progress
+- **Milestone 1: ** <a href="">M1</a>
+- **Milestone 2: ** <a href="">M2</a>
 
 ---
 
