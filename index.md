@@ -35,8 +35,8 @@ When complete, Club Hub will include:
 - **Admin Tools** for club leaders to edit info and post updates
 
 ## Our Progress
-- **Milestone 1: ** <a href="">M1</a>
-- **Milestone 2: ** <a href="">M2</a>
+- **Milestone 1:** <a href="https://github.com/orgs/manoaconnecttb/projects/1"> M1</a>
+- **Milestone 2:** <a href=""> M2</a>
 
 ---
 
