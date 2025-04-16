@@ -13,7 +13,7 @@ We believe that every student should be able to find a place where they belongâ€
 
 ## Deployment
 
-See website: <a href="">Manoa Connect</a>
+See website: <a href="https://manoa-connect.vercel.app/">Manoa Connect</a>
 
 ## Project Goals
 
