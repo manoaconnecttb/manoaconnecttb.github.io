@@ -56,7 +56,7 @@ When complete, Club Hub will include:
 **Styling Change**
 <img src="pics/styling.png">
 
-- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/5"> M1</a>
+- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M1</a>
 
 ---
 
