@@ -62,7 +62,7 @@ When complete, Club Hub will include:
 - View randomized clubs on the explore page
 - View the clubs their through the clubs page
 
-- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M1</a>
+- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M3</a>
 
 ---
 
