@@ -95,12 +95,7 @@ Need Help?
 
 ---
 
-## Mockup #1
-![image](https://github.com/user-attachments/assets/2185171f-7f1f-4796-801e-57157701cd08)
 
-## Mockup #2
-![image](https://github.com/user-attachments/assets/2f50b560-ddfc-4da3-ae35-c9e31380392a)
-![image](https://github.com/user-attachments/assets/f616ef69-1ee8-40ca-ad80-465d4f6c677e)
 
 ---
 [Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?usp=sharing)
