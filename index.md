@@ -55,6 +55,13 @@ When complete, Club Hub will include:
 <img src="pics/clubs.png">
 **Styling Change**
 <img src="pics/styling.png">
+<br>
+User Guide
+<br>
+- Users can currently log into their account through the above sign in page or sign up with the signup page
+-  Users can post through the home page
+-  View randomized clubs on the explore page
+-  View the clubs their through the clubs page
 
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M1</a>
 
