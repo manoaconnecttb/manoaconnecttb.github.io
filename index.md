@@ -62,6 +62,35 @@ When complete, Club Hub will include:
 - View randomized clubs on the explore page
 - View the clubs their through the clubs page
 
+## **Developer Guide**
+Clone the Repo
+- git clone https://github.com/manoaconnecttb/manoaconnect.git && cd manoaconnect
+Install Requirements
+- Install Node.js (v16+)
+- Install dependencies:
+    - Frontend: cd client && npm install
+    - Backend: cd ../server && npm install
+Run the App
+- Start backend: cd server && npm run dev
+- Start frontend: cd ../client && npm start
+- Visit http://localhost:3000
+Project Structure
+- client/ → React frontend
+- server/ → Node.js/Express backend
+- models/, routes/, controllers/ → For backend logic
+Make Changes
+- Frontend: add/update React components in client/src
+- Backend: edit routes/controllers/models in server/
+- Use .env for config (API keys, DB URI)
+Test Your Code
+- Frontend: cd client && npm test
+- Backend: cd server && npm test
+Contribute
+- Fork → Branch → Commit → PR
+- Follow code style and leave clear comments
+Need Help?
+- Open an issue on GitHub or contact the team
+
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M3</a>
 
 ---
@@ -75,3 +104,5 @@ When complete, Club Hub will include:
 
 ---
 [Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?usp=sharing)
+
+
