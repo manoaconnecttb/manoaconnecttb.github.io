@@ -38,15 +38,6 @@ When complete, Club Hub will include:
 ## Progression
 - **Milestone 1:** <a href="https://github.com/orgs/manoaconnecttb/projects/1"> M1</a>
 <br>
-**Landing page Mockup**
-<img src="pics/landing_page.png">
-**Sign Up Mockup**
-<img src="pics/sign_up.png">
-**Sign In Page Mockup**
-<img src="pics/sign_in.png">
-**Feedback Page Mockup**
-<img src="pics/feedback.png">
-<br>
 - **Milestone 2:** <a href="https://github.com/orgs/manoaconnecttb/projects/4/views/1"> M2</a>
 <br>
 **Explore Page Mockup**
