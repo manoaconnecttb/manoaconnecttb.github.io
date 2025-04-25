@@ -56,8 +56,7 @@ When complete, Club Hub will include:
 **Styling Change**
 <img src="pics/styling.png">
 <br>
-User Guide
-<br>
+**User Guide**
 - Users can currently log into their account through the above sign in page or sign up with the signup page
 - Users can post through the home page
 - View randomized clubs on the explore page
