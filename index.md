@@ -14,7 +14,7 @@ We believe that every student should be able to find a place where they belongâ€
 ## Deployment
 
 See website: <a href="https://manoa-connect.vercel.app/">Manoa Connect</a>
-- [![ci-ManoaConnect](https://github.com/manoaconnecttb/ManoaConnect/actions/workflows/ci.yml/badge.svg)](https://github.com/manoaconnecttb/ManoaConnect/actions/workflows/ci.yml)
+- ![ci-ManoaConnect](https://github.com/manoaconnecttb/ManoaConnect/ci-ManoaConnect/badge.svg)
 
 ## Project Goals
 
