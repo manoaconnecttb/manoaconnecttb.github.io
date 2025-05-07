@@ -47,6 +47,8 @@ When complete, Club Hub will include:
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/explore_clubs.png?raw=true)
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/explore_posts.png?raw=true)
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/home_page.png?raw=true)
+![image](https://github.com/user-attachments/assets/4f4266e0-2212-4d18-8d1d-8271b0f01bbb)
+
 
 
 ## **User Guide**
