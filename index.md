@@ -40,7 +40,7 @@ When complete, Club Hub will include:
 <br>
 - **Milestone 2:** <a href="https://github.com/orgs/manoaconnecttb/projects/4/views/1"> M2</a>
 <br>
-- **Milestone 3:** <a href:"https://github.com/orgs/manoaconnecttb/projects/9/views/1"> M3</a>
+- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1"> M3</a>
 ## **User Guide**
 - Users can currently log into their account through the above sign in page or sign up with the signup page
 - Users can post through the home page
