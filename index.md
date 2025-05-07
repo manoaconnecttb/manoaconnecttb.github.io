@@ -50,9 +50,10 @@ When complete, Club Hub will include:
 
 ## **User Guide**
 - Users can currently log into their account through the above sign in page or sign up with the signup page
-- Users can post through the home page
-- View randomized clubs on the explore page
-- View the clubs their through the clubs page
+- Clubs can post through the home page and explore page
+- Users can view all clubs and posts on the explore page
+- Users can see the posts of clubs they follow on the home page
+- Users can view the clubs they follow through the following page
 
 ## **Developer Guide**
 Clone the Repo
