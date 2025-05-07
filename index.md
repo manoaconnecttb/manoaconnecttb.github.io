@@ -16,13 +16,12 @@ We believe that every student should be able to find a place where they belong�
 See website: <a href="https://manoa-connect.vercel.app/">Manoa Connect</a>
 - ![ci-ManoaConnect](https://github.com/manoaconnecttb/ManoaConnect//workflows/ci-ManoaConnect/badge.svg)
 
-## Project Goals
+## Overview
 
 Our goal is to build a user-friendly and dynamic platform where:
 - Students can explore a wide variety of UH Mānoa clubs based on interests, major, or activity type.
 - Clubs can create and manage public profiles to advertise their purpose, events, and meeting times.
 - Students can express interest, contact club leaders, and track the clubs they’ve joined.
-- Everything is searchable and filterable, from cultural orgs to pre-professional societies to hobby-based clubs.
 
 ---
 
@@ -84,8 +83,7 @@ Contribute
 Need Help?
 - Open an issue on GitHub or contact the team
 
-- **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/8"> M3</a>
-
+## **Community Feedback**
 ---
 
 
