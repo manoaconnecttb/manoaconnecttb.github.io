@@ -44,6 +44,8 @@ When complete, Club Hub will include:
 
 ## **Milestone 3 Screenshots** ##
 ![image](https://github.com/user-attachments/assets/eb78b0ff-80b2-420f-bbae-c10a42714f22)
+![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/explore_clubs.png?raw=true)
+![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/admin_page.png?raw=true)
 
 
 ## **User Guide**
