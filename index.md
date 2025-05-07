@@ -42,7 +42,7 @@ When complete, Club Hub will include:
 <br>
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1"> M3</a>
 
-## **Milestone 3 Screenshots ##
+## **Milestone 3 Screenshots** ##
 ![image](https://github.com/user-attachments/assets/eb78b0ff-80b2-420f-bbae-c10a42714f22)
 
 
