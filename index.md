@@ -5,7 +5,7 @@ title: Club Hub - ManoaConnectTB
 
 # Welcome to Manoa Connect
 
-**Manoa Connect** is a centralized platform designed to connect students at the University of Hawai‘i at Mānoa with the many amazing clubs, student organizations, and communities on campus.
+<a href="https://github.com/manoaconnecttb">**Manoa Connect**</a> is a centralized platform designed to connect students at the University of Hawai‘i at Mānoa with the many amazing clubs, student organizations, and communities on campus.
 
 We believe that every student should be able to find a place where they belong—and Club Hub is here to help make that happen.
 
