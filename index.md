@@ -109,7 +109,7 @@ Need Help?
 <br>
 - "The “Welcome \*\*\*\*\*@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, \*\*\*\*\*.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
 <br>
-- ""
+- "The long in page was a little buggy. I wish there were comment feature. I liked the logos design but why is it different colors from the back drop. The user name on the post page was really big. The format could have been clearer. I don't know anything about web design, I personally think this is still very impressive and could be a website my club ends up using."
 <br>
 - ""
 <br>
@@ -117,7 +117,7 @@ Need Help?
 <br>
 
 ## Future Improvements
-Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see.
+Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see and to clean up the appearance of some components to be more refined.
 
 ---
 
