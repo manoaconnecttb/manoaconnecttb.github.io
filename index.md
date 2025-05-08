@@ -102,8 +102,19 @@ Need Help?
 
 ## **Community Feedback**
 ---
-"Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use."
+"Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use. On the other hand, I'd like to see "organizational tabs" in the "explore clubs" tab to help group clubs into categories such as "academic/professional, recreation, sports, etc." to help potential students filter their own interests!"
+<br>
+"The “Welcome *****@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, Stanlee.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
+<br>
+""
+<br>
+""
+<br>
+""
+<br>
 
+## **Possible Improvements**
+Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see.
 
 ---
 [Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?usp=sharing)
