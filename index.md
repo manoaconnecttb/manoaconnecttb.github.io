@@ -111,7 +111,7 @@ Need Help?
 <br>
 - "The long in page was a little buggy. I wish there were comment feature. I liked the logos design but why is it different colors from the back drop. The user name on the post page was really big. The format could have been clearer. I don't know anything about web design, I personally think this is still very impressive and could be a website my club ends up using."
 <br>
-- ""
+- "I like the website! I think you could add an about section explaining the website for new users! Other than that everything looks good!"
 <br>
 - ""
 <br>
