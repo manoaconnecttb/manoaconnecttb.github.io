@@ -23,8 +23,6 @@ Our goal is to build a user-friendly and dynamic platform where:
 - Clubs can create and manage public profiles to advertise their purpose, events, and meeting times.
 - Students can express interest, contact club leaders, and track the clubs they’ve joined.
 
----
-
 ## What ManoaConnectTB Provides
 
 Club Hub Allows for the Following Features:
@@ -41,8 +39,6 @@ Club Hub Allows for the Following Features:
 - **Milestone 2:** <a href="https://github.com/orgs/manoaconnecttb/projects/4/views/1">M2</a>
 <br>
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1">M3</a>
-
----
 
 ## **Current Screenshots** ##
 - **Landing Page**
@@ -116,8 +112,6 @@ Need Help?
 <br>
 - ""
 <br>
-
----
 
 ## **Future Improvements**
 Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see.
