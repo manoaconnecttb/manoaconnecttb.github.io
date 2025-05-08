@@ -25,7 +25,7 @@ Our goal is to build a user-friendly and dynamic platform where:
 
 ---
 
-## What Club Hub Will Provide
+## What ManoaConnectTB Provides
 
 Club Hub Allows for the Following Features:
 - **Club Directory** with profiles and contact info
@@ -102,7 +102,7 @@ Need Help?
 
 ## **Community Feedback**
 ---
-
+"Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use."
 
 
 ---
