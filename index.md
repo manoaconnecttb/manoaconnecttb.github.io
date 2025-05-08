@@ -41,12 +41,24 @@ Club Hub Allows for the Following Features:
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1">M3</a>
 
 ## **Milestone 3 Screenshots** ##
-![image](https://github.com/user-attachments/assets/eb78b0ff-80b2-420f-bbae-c10a42714f22)
-![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/admin_page.png?raw=true)
+- **Landing Page**
+<br>
+![image](https://github.com/user-attachments/assets/4f4266e0-2212-4d18-8d1d-8271b0f01bbb)
+- **Home Page**
+<br>
+![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/home_page.png?raw=true)
+- **Explore Pages**
+<br>
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/explore_clubs.png?raw=true)
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/explore_posts.png?raw=true)
-![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/home_page.png?raw=true)
-![image](https://github.com/user-attachments/assets/4f4266e0-2212-4d18-8d1d-8271b0f01bbb)
+- **Feedback Page**
+<br>
+![image](https://github.com/user-attachments/assets/eb78b0ff-80b2-420f-bbae-c10a42714f22)
+- **Admin Tools Page**
+<br>
+![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/admin_page.png?raw=true)
+
+
 
 
 
