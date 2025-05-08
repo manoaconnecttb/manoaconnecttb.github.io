@@ -64,8 +64,6 @@ Club Hub Allows for the Following Features:
 
 ---
 
-
-
 ## **User Guide**
 - Users can sign up and create an account with the signup page
 - If they have an account, users can log into their account with the sign in page
@@ -107,8 +105,6 @@ Need Help?
 ---
 
 ## **Community Feedback**
-
----
 
 - "Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use. On the other hand, I'd like to see "organizational tabs" in the "explore clubs" tab to help group clubs into categories such as "academic/professional, recreation, sports, etc." to help potential students filter their own interests!"
 <br>
