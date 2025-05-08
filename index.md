@@ -27,12 +27,11 @@ Our goal is to build a user-friendly and dynamic platform where:
 
 ## What Club Hub Will Provide
 
-When complete, Club Hub will include:
+Club Hub Allows for the Following Features:
 - **Club Directory** with profiles and contact info
-- **Search and Filter** system by interest, time commitment, category, and more
-- **Club News Feed** with announcements and events
+- **Club News Feed** with posted announcements and events
 - **Student Dashboards** for managing saved/joined clubs
-- **Admin Tools** for club leaders to edit info and post updates
+- **Admin Tools** to check user submitted posts and delete inappropriate clubs/posts
 
 ## Progression
 - **Milestone 1:** <a href="https://github.com/orgs/manoaconnecttb/projects/1">M1</a>
@@ -52,11 +51,13 @@ When complete, Club Hub will include:
 
 
 ## **User Guide**
-- Users can currently log into their account through the above sign in page or sign up with the signup page
-- Clubs can post through the home page and explore page
-- Users can view all clubs and posts on the explore page
-- Users can see the posts of clubs they follow on the home page
-- Users can view the clubs they follow through the following page
+- Users can sign up and create an account with the signup page
+- If they have an account, users can log into their account with the sign in page
+- Users can view all clubs and posts on either explore page
+- Users can send feedback to the site admins
+- Clubs can create new posts through the home page and explore page
+- Club leaders can create new clubs through the explore clubs page
+
 
 ## **Developer Guide**
 Clone the Repo
