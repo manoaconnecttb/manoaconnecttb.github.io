@@ -104,7 +104,7 @@ Need Help?
 
 - "Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use. On the other hand, I'd like to see "organizational tabs" in the "explore clubs" tab to help group clubs into categories such as "academic/professional, recreation, sports, etc." to help potential students filter their own interests!"
 <br>
-- "The “Welcome *****@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, *****.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
+- "The “Welcome \*\*\*\*\*@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, \*\*\*\*\*.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
 <br>
 - ""
 <br>
