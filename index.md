@@ -40,7 +40,7 @@ Club Hub Allows for the Following Features:
 <br>
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1">M3</a>
 
-## **Current Screenshots** ##
+## Current Screenshots
 - **Landing Page**
 <br>
 ![image](https://github.com/user-attachments/assets/4f4266e0-2212-4d18-8d1d-8271b0f01bbb)
@@ -60,7 +60,7 @@ Club Hub Allows for the Following Features:
 
 ---
 
-## **User Guide**
+## User Guide
 - Users can sign up and create an account with the signup page
 - If they have an account, users can log into their account with the sign in page
 - Users can view all clubs and posts on either explore page
@@ -69,7 +69,7 @@ Club Hub Allows for the Following Features:
 - Club leaders can create new clubs through the explore clubs page
 
 
-## **Developer Guide**
+## Developer Guide
 Clone the Repo
 - git clone https://github.com/manoaconnecttb/manoaconnect.git && cd manoaconnect
 Install Requirements
@@ -100,11 +100,11 @@ Need Help?
 
 ---
 
-## **Community Feedback**
+## Community Feedback
 
 - "Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use. On the other hand, I'd like to see "organizational tabs" in the "explore clubs" tab to help group clubs into categories such as "academic/professional, recreation, sports, etc." to help potential students filter their own interests!"
 <br>
-- "The “Welcome *****@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, Stanlee.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
+- "The “Welcome *****@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, *****.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
 <br>
 - ""
 <br>
@@ -113,7 +113,7 @@ Need Help?
 - ""
 <br>
 
-## **Future Improvements**
+## Future Improvements
 Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see.
 
 ---
