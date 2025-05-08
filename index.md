@@ -33,6 +33,8 @@ Club Hub Allows for the Following Features:
 - **Student Dashboards** for managing saved/joined clubs
 - **Admin Tools** to check user submitted posts and delete inappropriate clubs/posts
 
+---
+
 ## Progression
 - **Milestone 1:** <a href="https://github.com/orgs/manoaconnecttb/projects/1">M1</a>
 <br>
@@ -40,7 +42,9 @@ Club Hub Allows for the Following Features:
 <br>
 - **Milestone 3:** <a href="https://github.com/orgs/manoaconnecttb/projects/9/views/1">M3</a>
 
-## **Milestone 3 Screenshots** ##
+---
+
+## **Current Screenshots** ##
 - **Landing Page**
 <br>
 ![image](https://github.com/user-attachments/assets/4f4266e0-2212-4d18-8d1d-8271b0f01bbb)
@@ -58,7 +62,7 @@ Club Hub Allows for the Following Features:
 <br>
 ![image](https://github.com/manoaconnecttb/manoaconnecttb.github.io/blob/main/pics/admin_page.png?raw=true)
 
-
+---
 
 
 
@@ -100,8 +104,12 @@ Contribute
 Need Help?
 - Open an issue on GitHub or contact the team
 
-## **Community Feedback**
 ---
+
+## **Community Feedback**
+
+---
+
 - "Overall, I really like the functionality of the website in that it's user-friendly and highly intuitive to use. On the other hand, I'd like to see "organizational tabs" in the "explore clubs" tab to help group clubs into categories such as "academic/professional, recreation, sports, etc." to help potential students filter their own interests!"
 <br>
 - "The “Welcome *****@gmail.com” text feels a bit raw — it’d look nicer if it showed just the name, like “Welcome, Stanlee.”, The "Manoa ConnectTB" logo and title at the top center could be more and better polished and better quality. The cards for the posts and clubs work, but they look a little basic. Adding better padding, hover effects, and some updated fonts could help make them stand out more. You might want to hide users’ full emails on public pages and as I said use a username."
@@ -112,9 +120,13 @@ Need Help?
 <br>
 - ""
 <br>
+
 ---
+
 ## **Future Improvements**
 Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see.
+
+---
 
 [Team Contract](https://docs.google.com/document/d/19ISbg1g8jTFm1V74StpGrG74BBHWuKIC-xssoQD9noM/edit?usp=sharing)
 
