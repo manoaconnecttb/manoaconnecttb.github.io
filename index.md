@@ -111,13 +111,14 @@ Need Help?
 <br>
 - "The long in page was a little buggy. I wish there were comment feature. I liked the logos design but why is it different colors from the back drop. The user name on the post page was really big. The format could have been clearer. I don't know anything about web design, I personally think this is still very impressive and could be a website my club ends up using."
 <br>
+- "I can't delete the posts I created myself, and after I entered the club, when I clicked the join club button nothing happened, it seems that the function is not yet complete. In addition, the posts, activities, clock in and chat in the club all show the same sentence, these functions do not seem to be complete either."
+<br>
+- "Cool website! Maybe add a way to find clubs by major"
+- <br>
 - "I like the website! I think you could add an about section explaining the website for new users! Other than that everything looks good!"
-<br>
-- ""
-<br>
 
 ## Future Improvements
-Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be the functionality of some pages such as the explore page to include a search filter to better align with what clubs or posts users want to see and to clean up the appearance of some components to be more refined.
+Based on the feedback provided by some users, one big concern we should address is user privacy as having the email of a user under their posts is leaking sensitive data. Another area of improvement would be oto improve and implement some functionality of pages such as the explore page to include a search filter to better align with what clubs or posts users want to see and to clean up the appearance of some components to be more refined. We also want to allow users the ability to modify their own posts.
 
 ---
 
