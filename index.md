@@ -114,7 +114,7 @@ Need Help?
 - "I can't delete the posts I created myself, and after I entered the club, when I clicked the join club button nothing happened, it seems that the function is not yet complete. In addition, the posts, activities, clock in and chat in the club all show the same sentence, these functions do not seem to be complete either."
 <br>
 - "Cool website! Maybe add a way to find clubs by major"
-- <br>
+<br>
 - "I like the website! I think you could add an about section explaining the website for new users! Other than that everything looks good!"
 
 ## Future Improvements
